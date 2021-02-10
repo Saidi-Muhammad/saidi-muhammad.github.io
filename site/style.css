@@ -1,0 +1,17 @@
+header {
+	background-color: red;
+	padding: 100px 0;
+	text-align: center;
+}
+h1 {
+	color: yellow;
+	font-size: 70px;
+}
+p {
+	color: darkgreen;
+	font-size: 40px;
+}
+.auto {
+	width: 1140px;
+	margin: auto;
+}
